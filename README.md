@@ -1,4 +1,4 @@
-<img align="right" src="[https://github-readme-stats.vercel.app/api?username=overtrue&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true](https://avatars.githubusercontent.com/u/16145443?v=4)" />
+<img align="right" src="https://fs.gaoheng.top/file/daa87e61-caea-4ce5-8947-149da056c40f.jpeg" />
 
 ### Hello 👋
 
